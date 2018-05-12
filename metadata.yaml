@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9669'
     url: http://www.gutenberg.org/2009/agents/9669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21007#The-Bird-Study-Book
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '2007-04-08'
 gutenberg_type: Text
